@@ -1,0 +1,47 @@
+{
+    "usuarios": [
+      {
+        "nome": "Eduardo Augusto Paiva Pinto",
+        "email": "eduardo.augustopp@hotmail.com",
+        "rg": "12.345.678-9",
+        "cpf": "123.456.789-09",
+        "aniversario": "2000-01-01"
+      },
+      {
+        "nome": "Mariana Oliveira da Silva",
+        "email": "mariana.oliveira@gmail.com",
+        "rg": "23.456.789-0",
+        "cpf": "234.567.890-12",
+        "aniversario": "1995-07-15"
+      },
+      {
+        "nome": "Carlos Henrique Souza",
+        "email": "carlos.souza@yahoo.com",
+        "rg": "34.567.890-1",
+        "cpf": "345.678.901-23",
+        "aniversario": "1988-11-20"
+      },
+      {
+        "nome": "Ana Beatriz Ferreira",
+        "email": "ana.beatriz@hotmail.com",
+        "rg": "45.678.901-2",
+        "cpf": "456.789.012-34",
+        "aniversario": "1992-03-08"
+      },
+      {
+        "nome": "João Pedro Lima",
+        "email": "joao.pedro@gmail.com",
+        "rg": "56.789.012-3",
+        "cpf": "567.890.123-45",
+        "aniversario": "2001-05-25"
+      },
+      {
+        "nome": "Fernanda Alves Costa",
+        "email": "fernanda.costa@yahoo.com",
+        "rg": "67.890.123-4",
+        "cpf": "409.226.550-65",
+        "aniversario": "1999-09-30"
+      }
+    ]
+  }
+  
